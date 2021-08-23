@@ -426,12 +426,12 @@ hr{
     .instiname{
         font-weight: 900;
         font-size: 20px;
-        padding: 0px;
+        padding-left: 2px;
     }
     .instiplace{
         font-weight: 900;
         font-size: 15px;
-        padding: 0px;
+        padding-right: 3px;
     }
     .instiyr{
         font-size: 15px;
